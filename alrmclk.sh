@@ -18,5 +18,5 @@ while true; do
         break
     fi
     sleep 30  # Check every 30 seconds 
-then exit
+
 done
