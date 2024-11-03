@@ -1,1 +1,0 @@
-echo -e "#!/bin/bash\n\necho \"Updating the repository...\"\ngit pull origin main" > update.sh
