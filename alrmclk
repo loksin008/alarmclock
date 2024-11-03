@@ -2,7 +2,7 @@
 
 # Function to display a message and play a sound
 alarm() {
-    echo "Alarm ringing! Time to wake up!"
+    echo "Alarm ringing! lokesh wakeup!"
     # Play a sound (adjust the command based on your system)
     paplay /usr/share/sounds/freedesktop/stereo/complete.ogg
 }
