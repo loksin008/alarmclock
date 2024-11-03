@@ -17,5 +17,6 @@ while true; do
         alarm
         break
     fi
-    sleep 30  # Check every 30 seconds
+    sleep 30  # Check every 30 seconds 
+then exit
 done
